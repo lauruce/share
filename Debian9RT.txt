@@ -1,0 +1,4 @@
+# share
+http://blog.csdn.net/kl1125290220/article/details/78560220
+
+https://wiki.linuxfoundation.org/realtime/start
