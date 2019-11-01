@@ -1,5 +1,0 @@
-1 Get rep from github:
-  git remote add name https://github.com/name/project.git
-
-2 Commit your local modify to github:
-  git push origin master
